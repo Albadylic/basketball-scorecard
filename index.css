@@ -1,0 +1,30 @@
+body {
+    margin: 10px;
+    text-align: center;
+    background: #000000;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    color: #FCA311;
+    border-radius: 10%;
+}
+
+button:hover {
+    background: #E5E5E5;
+    color: #14213d;
+}
+
+.home, .guest {
+    background-color: #14213d;
+    border-radius: 10%;
+    border: #E5E5E5 double 5px;
+    padding: 10px;
+    color: #FCA311;
+}
+
