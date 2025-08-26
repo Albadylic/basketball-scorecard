@@ -2,6 +2,8 @@
 
 This is my first solo project. I've built a basketball scorecard which allows a user to click buttons to increment the score shown for a home and guest team.
 
+I started building this on Scrimba before I exported my files and worked locally with VS Code.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
