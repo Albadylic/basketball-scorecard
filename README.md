@@ -1,11 +1,7 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Basketball scorecard
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+This is my first solo project. I've built a basketball scorecard which allows a user to click buttons to increment the score shown for a home and guest team.
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
